@@ -5,6 +5,7 @@ email: kazakd@mail.ru
 
 # About myself
 Kazak Dmitry 
+
 City: Brest, Belarus
 
 # Skills
