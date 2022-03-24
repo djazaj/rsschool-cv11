@@ -1,3 +1,3 @@
 # rsschool-cv
-https://djazaj.github.io/rsschool-cv/cv
-https://djazaj.github.io/rsschool-cv/
+https://djazaj.github.io/rsschool-cv11/cv
+https://djazaj.github.io/rsschool-cv11/
